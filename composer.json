@@ -1,5 +1,5 @@
 {
-    "name": "dell/php-random-quotes-generator",
+    "name": "huzaifa/php-random-quotes-generator",
     "description": "This Library allow generate random quotes",
     "type": "library",
     "license": "MIT",
